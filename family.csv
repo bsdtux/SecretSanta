@@ -1,0 +1,7 @@
+name,email,shopping_list,exclusions
+Fake User 1,fake.user1@mailinator.com,"http://humblebundle.com","Fake User 2, Fake User 3"
+Fake User 2,fake.user2@mailinator.com,"https://amazon.com,https://target.com","Fake User 1, Fake User 3"
+Fake User 3,fake.user3@mailinator.com,"http://humblebundle.com","Fake User 1, Fake User 2"
+Fake User 4,fake.user4@mailinator.com,"https://amazon.com,https://target.com","Fake User 5, Fake User 6"
+Fake User 5,fake.user5@mailinator.com,"http://humblebundle.com","Fake User 4, Fake User 6"
+Fake User 6,fake.user6@mailinator.com,"https://amazon.com,https://target.com","Fake User 4, Fake User 5"
